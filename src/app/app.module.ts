@@ -6,6 +6,7 @@ import { CabeceraComponent } from './componentes/cabecera/cabecera.component';
 import { PieComponent } from './componentes/pie/pie.component';
 import { InicioComponent } from './componentes/inicio/inicio.component';
 import { PaisajesComponent } from './componentes/paisajes/paisajes.component';
+import { SuscripcionComponent } from './componentes/suscripcion/suscripcion.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { PaisajesComponent } from './componentes/paisajes/paisajes.component';
     CabeceraComponent,
     PieComponent,
     InicioComponent,
-    PaisajesComponent
+    PaisajesComponent,
+    SuscripcionComponent
   ],
   imports: [
     BrowserModule
