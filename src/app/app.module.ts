@@ -7,6 +7,7 @@ import { PieComponent } from './componentes/pie/pie.component';
 import { InicioComponent } from './componentes/inicio/inicio.component';
 import { PaisajesComponent } from './componentes/paisajes/paisajes.component';
 import { SuscripcionComponent } from './componentes/suscripcion/suscripcion.component';
+import { ContactoComponent } from './componentes/contacto/contacto.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { SuscripcionComponent } from './componentes/suscripcion/suscripcion.comp
     PieComponent,
     InicioComponent,
     PaisajesComponent,
-    SuscripcionComponent
+    SuscripcionComponent,
+    ContactoComponent
   ],
   imports: [
     BrowserModule
