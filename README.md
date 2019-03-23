@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
 
+## Comandos Para hacer correr el Proyecto
+
+1. git clone [RUTA_GIT](https://github.com/payawil/proyecto-turismo.git)
+2. cd /proyecto-turismo
+3. npm install
+4. ng serve
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
