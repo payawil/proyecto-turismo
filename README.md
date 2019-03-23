@@ -9,6 +9,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 3. npm install
 4. ng serve
 
+## Generacion del compilado del proyecto
+
+1. ng build --prod -- buildOptimizer
+2. copiar la carpeta dist a la carpeta docs
+3. 
 
 ## Development server
 
